@@ -1,7 +1,7 @@
 # adblock-for-woomy
 
 ## Description
-This Markdown document provides information about an adblocker script specifically designed for the website https://woomy.app/. The adblocker script has been modified to address issues caused by DrakoHyena's implementation, which caused the game to break when traditional adblockers were active. To ensure the script remains effective, the code has been obfuscated, making it challenging for DrakoHyena to patch the script every time an update is made.
+An adblocker script specifically designed for the website https://woomy.app/. The adblocker script has been obfuscated to address issues caused by DrakoHyena's implementation, which caused the game to break when traditional adblockers were active. Additionally, the code being obfuscated helps ensure the script remains effective making it challenging for DrakoHyena to patch the script every time an update is made.
 
 ## Note
 It is important to disable your regular adblocker when using this script. If the script ever breaks, check back here. I might have released a patch
