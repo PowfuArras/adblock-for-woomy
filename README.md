@@ -1,5 +1,8 @@
 # adblock-for-woomy
 
+## Update 10/05/2023
+I am archiving the repository as woomy no longer exists.
+
 ## Description
 An adblocker script specifically designed for the website https://woomy.app/. The adblocker script has been obfuscated to address issues caused by DrakoHyena's implementation, which caused the game to break when traditional adblockers were active. Additionally, the code being obfuscated helps ensure the script remains effective making it challenging for DrakoHyena to patch the script every time an update is made.
 
